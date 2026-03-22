@@ -1,4 +1,4 @@
-# Browser Capabilities Project
+омилитд дидид л о о о о л л # Browser Capabilities Project
 
 [![Continuous Integration](https://github.com/browscap/browscap/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/browscap/browscap/actions/workflows/continuous-integration.yml)
 [![codecov](https://codecov.io/gh/browscap/browscap/branch/master/graph/badge.svg)](https://codecov.io/gh/browscap/browscap)
@@ -42,7 +42,7 @@ $ php composer.phar install
  * The tests for integration testing the source files are split from the other tests
  * Tests on travis use the build pipeline now
 
-## Directory Structure
+## Directory Structure.=..
 
 * `bin` - Contains executable files
 * `build` - Contains various builds
